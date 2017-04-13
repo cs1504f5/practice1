@@ -1,0 +1,19 @@
+﻿  System.c
+d:\学习文件\游戏开发核心\practice git\practice1\practice1\system.c(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\学习文件\游戏开发核心\practice git\practice1\practice1\system.c(19): warning C4013: “free”未定义；假设外部返回 int
+  main.c
+d:\学习文件\游戏开发核心\practice git\practice1\practice1\main.c(22): warning C4013: “Input_Handle”未定义；假设外部返回 int
+  Level2.c
+d:\学习文件\游戏开发核心\practice git\practice1\practice1\level2.c(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\学习文件\游戏开发核心\practice git\practice1\practice1\level2.c(19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  Level1.c
+d:\学习文件\游戏开发核心\practice git\practice1\practice1\level1.c(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  Input.c
+  GamestateManager.c
+  正在生成代码...
+  practice1.vcxproj -> D:\学习文件\游戏开发核心\practice git\practice1\Debug\practice1.exe
+  practice1.vcxproj -> D:\学习文件\游戏开发核心\practice git\practice1\Debug\practice1.pdb (Full PDB)
